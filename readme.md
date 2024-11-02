@@ -26,7 +26,7 @@ a quick and easy thing i needed for getting stuff out of my legally owned nes ro
 
 ## ✧ installation
 ```bash
-git clone https://github.com/your-username/nese.git
+git clone https://github.com/getjared/nese.git
 cd nese
 make
 sudo make install
@@ -73,10 +73,11 @@ nese game.nes tiles.png -p palette.txt -m metadata.json
 ### palette format
 Create a text file with 4 RGB color values (0-255):
 ```
-0 0 0
-85 85 85
-170 170 170
-255 255 255
+0 0 0         # Color 0: Black
+85 85 85      # Color 1: Dark Gray
+170 170 170   # Color 2: Light Gray
+255 255 255   # Color 3: White
+
 ```
 
 ### metadata output
