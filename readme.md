@@ -54,24 +54,24 @@ nese <input_rom> <output_path> [options]
 | `-f <format>` | metadata format (json/xml) |
 
 ### examples
-Export as tilesheet:
+export as tilesheet:
 ```bash
 nese game.nes tiles.png
 ```
 
-Export individual tiles:
+export individual tiles:
 ```bash
 nese game.nes tiles/ -d
 ```
 
-Custom palette with metadata:
+custom palette with metadata:
 ```bash
 nese game.nes tiles.png -p palette.txt -m metadata.json
 ```
 
 ## ✧ configuration
 ### palette format
-Create a text file with 4 RGB color values (0-255):
+create a text file with 4 RGB color values (0-255):
 ```
 0 0 0         # Color 0: Black
 85 85 85      # Color 1: Dark Gray
@@ -100,9 +100,9 @@ JSON format:
 
 ## ✧ inspiration
 crafted with inspiration from:
-- NES development tools
-- Tile extraction utilities
-- Image processing libraries
+- nes development tools
+- tile extraction utilities
+- image processing libraries
 
 <div align="center">
 
