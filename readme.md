@@ -107,7 +107,7 @@ crafted with inspiration from:
 
 ```ascii
 ╭─────────────────────────╮
-│  made with ♥ by you     │
+│  made with ♥ by jared   │
 ╰─────────────────────────╯
 ```
 </div>
