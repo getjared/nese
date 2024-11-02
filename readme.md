@@ -7,7 +7,7 @@
 [![Made with C](https://img.shields.io/badge/Made%20with-C-purple.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 </div>
 
-## ✧ philosophy
+## ✧ why
 a quick and easy thing i needed for getting stuff out of my legally owned nes roms
 
 ## ✧ preview
