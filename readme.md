@@ -98,12 +98,6 @@ JSON format:
 }
 ```
 
-## ✧ inspiration
-crafted with inspiration from:
-- nes development tools
-- tile extraction utilities
-- image processing libraries
-
 <div align="center">
 
 ```ascii
