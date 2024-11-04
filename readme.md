@@ -12,7 +12,7 @@ a quick and easy thing i needed for getting stuff out of my legally owned nes ro
 
 ## ✧ preview
 <p align="center">
-    <img width="500" src="preview.png" alt="nese tilesheet output example">
+    <img width="500" src="2024-11-03-222808_2560x1440_scrot.png" alt="nese tilesheet output example">
 </p>
 
 ## ✧ features
